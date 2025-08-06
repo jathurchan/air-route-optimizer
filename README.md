@@ -9,7 +9,7 @@ This project demonstrates a multi-objective optimization algorithm to design saf
 ## Key Features
 
 * **High-Impact Optimization:** Achieves an **83% reduction in network risk** by intelligently balancing safety metrics against operational costs.
-* **Interactive Visualization:** A [Jupyter Notebook](https://www.google.com/search?q=/air-route-optimizer.ipynb) brings the algorithm to life, demonstrating the step-by-step network improvements.
+* **Interactive Visualization:** A [Jupyter Notebook](/air-route-optimizer.ipynb) brings the algorithm to life, demonstrating the step-by-step network improvements.
 * **Modern & Documented Code:** A clean implementation using Python, NumPy, and Scikit-learn, built for clarity and extensibility.
 
 ## The Challenge
