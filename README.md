@@ -1,6 +1,6 @@
 # Air Route Optimizer
 
-[![Python](https://img.shields.io/badge/Python-3.12%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3)](https://www.python.org/)
 [![Last Commit](https://img.shields.io/github/last-commit/jathurchan/air-route-optimizer)](https://github.com/jathurchan/air-route-optimizer/commits/main)
 [![License](https://img.shields.io/github/license/jathurchan/air-route-optimizer)](LICENSE)
 
